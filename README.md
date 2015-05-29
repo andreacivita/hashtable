@@ -8,3 +8,6 @@ It is composed by 4 files:
 4) tabellachiusa.h
 
 It is localized in italian.
+
+This project has been developed for the examination of Algorithms & Data Structures by: Civita Andrea, Gasparroni Mattia, Romani Giuseppe, Serafini Angelo.
+Developed in may, 2015.
